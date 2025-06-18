@@ -1,0 +1,6 @@
+@ProveedorScreeningAPI_HostAddress = http://localhost:5058
+
+GET {{ProveedorScreeningAPI_HostAddress}}/api/proveedor/
+Accept: application/json
+
+###
